@@ -7,8 +7,6 @@ Exttract Thumbnail from media instantly.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/itsyogieu/Thumbnail-Extractor-Bot&branch=main&run_command=python3 main.py &name=thumbnailextractbot)
-
 
 
 
