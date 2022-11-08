@@ -6,7 +6,7 @@ Exttract Thumbnail from media instantly.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-https://app.koyeb.com/apps/deploy?template=https://github.com/itsyogieu/techmagazine
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/itsyogieu/YB-Renamer-Bot&branch=name=ybrenamebot)
 
 ##### Required Variables
 
